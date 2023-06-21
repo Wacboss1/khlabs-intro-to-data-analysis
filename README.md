@@ -1,5 +1,5 @@
 # Intro to Data Analysis
-An intro into data analysis workshop by Kreative Horizons
+An Introduction into data analysis workshop by Kreative Horizons
 
 In this lab we are going to be dipping our toes into the world of data analytics.
 
